@@ -1,0 +1,31 @@
+_repo: Traditions-Superstitions-and-Folk-loreEastern-Origin-and-Mythical-Significance._39934
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardwick, Charles
+    birthdate: 1817
+    deathdate: 1889
+    gutenberg_agent_id: '40317'
+    url: http://www.gutenberg.org/2009/agents/40317
+description: ''
+gutenberg_issued: '2012-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England'
+- !lcsh 'Lancashire (England) -- Social life and customs'
+- !lcc 'GR'
+- !lcsh 'England -- Social life and customs'
+- !lcsh 'Folklore -- England -- Lancashire'
+title: "Traditions, Superstitions and Folk-lore\r\n(Chiefly Lancashire and the North\
+  \ of England:) Their Affinity to Others in Widely-Distributed Localities; Their\
+  \ Eastern Origin and Mythical Significance."
+url: http://www.gutenberg.org/ebooks/39934
